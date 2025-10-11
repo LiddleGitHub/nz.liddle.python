@@ -1,0 +1,14 @@
+#+title: README-packaging-liddle.org
+
+LINK [[file:src/nz.liddle.me/example.py][packaging_liddle src nz.liddle.me example.py]]
+
+
+packaging_liddle/
+  src/
+      nz.liddle.me/
+		    __init__.py
+                    [[file:src/nz.liddle.me/example.py][example.py]]
+
+
+
+* END
