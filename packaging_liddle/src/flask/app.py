@@ -11,7 +11,7 @@ def get_w():
 def hello_world():
     get_w()
     print("ullo")
-    return 'Hullo from Liddle Flask!'
+    return '(2025.10.28) Hullo from Liddle Flask! ref LINK /about'
 
 @app.route('/about')
 def about():
